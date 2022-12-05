@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prototipo</string>
+
+    <!-- Spinner 1 -->
+    <string-array name="degree">
+        <item nmae="1middleSchool"><font size="20">1° Secundaria</font></item>
+        <item nmae="2middleSchool"><font size="20">2° Secundaria</font></item>
+        <item nmae="3middleSchool"><font size="20">3° Secundaria</font></item>
+    </string-array>
+
+</resources>
